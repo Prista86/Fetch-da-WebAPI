@@ -1,0 +1,15 @@
+.card {
+    background-color: #f2f2f2;
+}
+
+h3 {
+    text-align: center;
+}
+
+.navbar2 {
+    overflow: hidden;
+    background-color: #f2f2f2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
